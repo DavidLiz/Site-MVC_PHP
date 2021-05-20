@@ -1,0 +1,15 @@
+{
+    "name": "david/animetic_mvc",
+    "authors": [
+        {
+            "name": "LiZh",
+            "email": "davidlizhao@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
